@@ -1,0 +1,62 @@
+[
+  {
+    "name": "animals",
+    "subTags": [
+      {
+        "name": "cats",
+        "subTags": [
+          {
+            "name": "lions",
+            "subTags": []
+          },
+          {
+            "name": "pumas",
+            "subTags": []
+          },
+          {
+            "name": "cats",
+            "subTags": []
+          }
+        ]
+      },
+      {
+        "name": "dogs",
+        "subTags": []
+      }
+    ]
+  },
+  {
+    "name": "birds",
+    "subTags": [
+      {
+        "name": "parrots",
+        "subTags": []
+      }
+    ]
+  },
+  {
+    "name": "sea creatures",
+    "subTags": [
+      {
+        "name": "fishes",
+        "subTags": [
+          {
+            "name": "redherring",
+            "subTags": []
+          },
+          {
+            "name": "goldfish",
+            "subTags": []
+          },
+          {
+            "name": "shark",
+            "subTags": []
+          }
+        ]
+      },
+      {
+        "name": "octopuses"
+      }
+    ]
+  }
+]

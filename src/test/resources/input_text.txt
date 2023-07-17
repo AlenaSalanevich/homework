@@ -1,0 +1,3 @@
+Some text: to verify functionality for some text!
+The words are repeated several times for several reasons.
+Also, some various delimiters are intentionally introduce here like - as well as :,; and ?
